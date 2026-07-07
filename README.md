@@ -172,7 +172,7 @@ License information will be added before the first public release.
 
 ## 👨‍💻 Authors
 
-**Sadman Sakib**
+**Sadman Sakib** **Tausif Uddin**
 
 More contributors will be added as the project progresses.
 
